@@ -1,4 +1,4 @@
 # hello-world
-first try
+try
 
 first change
